@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+# Welcome to Timothy Brown's Portfolio and Repository
+
+## Intro
+
+
+### Tableau Projects and Dashboards
+
+
+### Photoshop Portfolio
+
+
+### Collaborative Recommendation Engine for HR Hiring Process
+
+
+### Geeks-for-Geeks Challenges
+
+
+### Excel Projects
 
 You can use the [editor on GitHub](https://github.com/brownt47/brownt47.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
