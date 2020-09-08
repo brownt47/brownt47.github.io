@@ -3,7 +3,8 @@
 ## Intro
 
 
-### Tableau Projects and Dashboards
+### Tableau Portfolio <br>
+**[Alpharetta Project](https://public.tableau.com/shared/7XGQ6KMGS?:display_count=y&:origin=viz_share_link) - Course Enrollment Analysis<br>** - Created a dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes with slider to adjust threshold level to be considered "low enrollment" course to measure impact of cancelling courses.
 
 
 ### Photoshop Portfolio
