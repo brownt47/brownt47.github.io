@@ -1,7 +1,9 @@
 # Welcome to Timothy Brown's Portfolio and Repository
 
 ## Intro
-
+### Natural Language Processing (NPL) Projects <br>
+**[Fake News Classification using Google's BERT- GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)**
+Training a BERT model to classify fake news articles.  
 
 ### Tableau Portfolio <br>
 
