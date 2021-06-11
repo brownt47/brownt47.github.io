@@ -1,6 +1,9 @@
 # Welcome to Timothy Brown's Portfolio and Repository
 
-## Intro
+## Intro<br>
+Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
+Years of experience listening to client needs and providing guidance to solutions.
+
 ### Natural Language Processing (NPL) Projects <br>
 **[Fake News Classification using Google's BERT- GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)**
 Training a BERT model to classify fake news articles.  
@@ -11,8 +14,6 @@ Training a BERT model to classify fake news articles.
 
 **[Course Enrollment Analysis - Tableau Public](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1)** <br>
 Created a dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes with slider to adjust threshold level to be considered "low enrollment" course to measure impact of cancelling courses.
-
-https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md
 
 ### Scala and Spark Projects <br>
 **[Processing Consumer Purchasing Data- GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)**
