@@ -27,9 +27,8 @@ This is a VBA macro I wrote to address an issue with how enrollment reports disp
 
 ### Solutions for "R for Data Science" by Hadley Wickham [link to book](https://r4ds.had.co.nz/) <br>
 **[My solutions to "R for Data Science" - GitHub](https://brownt47.github.io/R-For-Data-Science-Solutions)** <br>
-Some of the other solution guides for the book used R structures not introduced in the text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
-
+Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
 
 ### PhotoShop Portfolio <br>
-**[PhoroShop Porfolio - GitPages](https://brownt47.github.io/Photoshop/)** <br>
+**[PhoroShop Portfolio - GitPages](https://brownt47.github.io/Photoshop/)** <br>
 Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
