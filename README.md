@@ -31,5 +31,5 @@ This is a VBA macro I wrote to address an issue with how enrollment reports disp
 Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
 
 ### PhotoShop Portfolio <br>
-**[PhoroShop Portfolio - GitPages](https://brownt47.github.io/Photoshop/)** <br>
+**[PhotoShop Portfolio - GitPages](https://brownt47.github.io/Photoshop/)** <br>
 Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
