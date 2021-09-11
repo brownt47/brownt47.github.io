@@ -15,6 +15,9 @@ Training a BERT model to classify fake news articles.
 **[Course Enrollment Analysis - Tableau Public](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1)** <br>
 Created a dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes with slider to adjust threshold level to be considered "low enrollment" course to measure impact of cancelling courses.
 
+### Python Projects <br>
+**[Python Projects](https://brownt47.github.io/Python_Projects/)
+
 ### Scala and Spark Projects <br>
 **[Processing Consumer Purchasing Data- GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)**
 Project was to total the combined purchases of each customer with a reduce function. Then sort the data by those totals. I added a challenge of finding those with spendatures greater than some predetermined amount.
