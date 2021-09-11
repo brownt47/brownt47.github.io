@@ -16,7 +16,7 @@ Training a BERT model to classify fake news articles.
 Created a dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes with slider to adjust threshold level to be considered "low enrollment" course to measure impact of cancelling courses.
 
 ### Python Projects <br>
-**[Python Projects](https://brownt47.github.io/Python_Projects/)
+**[Python Projects](https://brownt47.github.io/Python_Projects/)<br>
 
 ### Scala and Spark Projects <br>
 **[Processing Consumer Purchasing Data- GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)**
