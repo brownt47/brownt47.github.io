@@ -4,9 +4,6 @@
 Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
 Years of experience listening to client needs and providing guidance to solutions.
 
-### Natural Language Processing (NPL) Projects <br>
-**[Fake News Classification using Google's BERT- GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)**
-Training a BERT model to classify fake news articles.  
 
 ### Tableau Portfolio <br>
 
@@ -16,7 +13,12 @@ Training a BERT model to classify fake news articles.
 Created a dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes with slider to adjust threshold level to be considered "low enrollment" course to measure impact of cancelling courses.
 
 ### Python Projects <br>
-**[Python Projects](https://brownt47.github.io/Python_Projects/)<br>
+**[Python Projects](https://brownt47.github.io/Python_Projects/)**<br>
+Collection of python projects used to analyze course enrollment data and generate excel reports.  Makes use of pandas, nympy, xlsxwriter and others.
+
+### Natural Language Processing (NPL) Projects <br>
+**[Fake News Classification using Google's BERT- GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)**
+Training a BERT model to classify fake news articles.  
 
 ### Scala and Spark Projects <br>
 **[Processing Consumer Purchasing Data- GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)**
