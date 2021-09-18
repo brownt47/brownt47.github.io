@@ -4,7 +4,7 @@
 -Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
 -Years of experience listening to client needs and providing guidance to solutions. Interested in moving from academia into a professional data science role.
 
-### Tableau Portfolio ##### [link](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
+### Tableau Portfolio <br> [link](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
 
 **[Course Enrollment Analysis - Tableau Public](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1)** <br>
 -Created a dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes with slider to adjust threshold level to be considered "low enrollment" course to measure impact of cancelling courses.
@@ -13,17 +13,17 @@
 ### Python Projects <br>
 
 [Python Projects](https://brownt47.github.io/Python_Projects/)<br>
--Collection of python projects used to analyze course enrollment data and generate excel reports.  Makes use of pandas, nympy, xlsxwriter and others.
+- Collection of python projects used to analyze course enrollment data and generate excel reports.  Makes use of pandas, nympy, xlsxwriter and others.
 
 ### Research and Publications <br>
 Research Papers of interest
 
 **[Research paper on how to read research papers - pdf](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** <br>
--Many thanks to S. Keshav from University of Waterloo for his meta-research.
+> Many thanks to S. Keshav from University of Waterloo for his meta-research.
 
 ### PhotoShop Portfolio <br>
 [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
--Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
+* Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 
 ### Natural Language Processing (NPL) Projects <br>
 **[Fake News Classification using Google's BERT- GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)**
