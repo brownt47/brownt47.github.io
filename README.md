@@ -13,7 +13,7 @@
 
 * [Tableau Public link](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
 
-#### Python Projects <br>
+#### * [Python Projects](https://brownt47.github.io/Python_Projects/) <br>
 
 * [Python Projects](https://brownt47.github.io/Python_Projects/)<br>
   
