@@ -13,8 +13,8 @@
 
 ### [Python Projects](https://brownt47.github.io/Python_Projects/) <br>
   
-  > Collection of python projects used to analyze course enrollment data and generate excel reports.  
-  > Makes use of pandas, nympy, xlsxwriter and others.
+    > Collection of python projects used to analyze course enrollment data and generate excel reports.  
+    > Makes use of pandas, nympy, xlsxwriter and others.
 
 #### [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
 
