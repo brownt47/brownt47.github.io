@@ -50,7 +50,9 @@
   > This is a VBA macro I wrote to address an issue with how enrollment reports displayed one course that had multiple cross-listings.  In order for one department to know how many students were enrolled in different courses, one would have to find all the cross-listed sections and then manually add them together.  This macro would automate that process across hundreds of cross-listed courses among all disciplines and campuses.
 
 ### Solutions for "R for Data Science" by Hadley Wickham<br>
-* [Solutions for "R for Data Science" by Hadley Wickham](https://brownt47.github.io/R-For-Data-Science-Solutions) [link to book](https://r4ds.had.co.nz/) <br>
+* [Solutions for "R for Data Science" by Hadley Wickham](https://brownt47.github.io/R-For-Data-Science-Solutions) <br>
+  
+  > [link to book](https://r4ds.had.co.nz/) <br>
   
   > Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
 
