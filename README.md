@@ -4,7 +4,7 @@
 * Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
 * Years of experience listening to client needs and providing guidance to solutions. Interested in moving from academia into a professional data science role.
 
-#### [Tableau Public Portfolio](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
+### [Tableau Public Portfolio](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
 
 
 * [Course Enrollment Analysis - Featured Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
@@ -13,14 +13,14 @@
 
 ### [Python Projects](https://brownt47.github.io/Python_Projects/) <br>
   
-    > Collection of python projects used to analyze course enrollment data and generate excel reports.  
+    * > Collection of python projects used to analyze course enrollment data and generate excel reports.  
     > Makes use of pandas, nympy, xlsxwriter and others.
 
-#### [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
+### [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
 
-  > Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
+  - Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 
-#### Natural Language Processing (NPL) Projects <br>
+### Natural Language Processing (NPL) Projects <br>
 * [Fake News Classification using Google's BERT- GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)
   
   > Training a BERT model to classify fake news articles.  
