@@ -1,4 +1,4 @@
-# Welcome to Timothy Brown's Portfolio and Repository
+# Timothy Brown's Portfolio
 
 ## Intro<br>
 * Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
@@ -22,15 +22,15 @@
 ## Other Projects <br>
 
 #### Natural Language Processing (NPL) Projects <br>
-* [Fake News Classification using Google's BERT- GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)
+* [Fake News Classification using Google's BERT - GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)
   * Training a BERT model to classify fake news articles.  
 
 #### Scala and Spark Projects <br>
-* [Processing Consumer Purchasing Data- GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)
+* [Processing Consumer Purchasing Data - GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)
   * Project was to total the combined purchases of each customer with a reduce function. Then sort the data by those totals. I added a challenge of finding those with spendatures greater than some predetermined amount.
 
 #### VBA Projects <br>
-* [Image Resizing and Hyperlink Insertion  in Word- GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
+* [Image Resizing and Hyperlink Insertion  in Word - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
   * This is a macro that will resize a selected image and attach a hyperlink to the image. It will also add the hyperlink as text below the image.
 
 * [Course Enrollment Report Processing in Excel - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/CrossListedCourses.md) <br>
