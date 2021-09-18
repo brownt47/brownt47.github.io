@@ -2,8 +2,7 @@
 
 ## Intro<br>
 Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
-Years of experience listening to client needs and providing guidance to solutions.
-
+Years of experience listening to client needs and providing guidance to solutions. Interested in moving from academia into a professional data science role.
 
 ### Tableau Portfolio <br>
 
@@ -15,6 +14,14 @@ Created a dashboard to show enrollment levels in various subjects, courses and c
 ### Python Projects <br>
 **[Python Projects](https://brownt47.github.io/Python_Projects/)**<br>
 Collection of python projects used to analyze course enrollment data and generate excel reports.  Makes use of pandas, nympy, xlsxwriter and others.
+
+### Research and Publications <br>
+**[Research paper on how to read research papers - pdf](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)** <br>
+Many thanks to S. Keshav from University of Waterloo for his meta-research.
+
+### PhotoShop Portfolio <br>
+**[PhotoShop Portfolio - GitPages](https://brownt47.github.io/Photoshop/)** <br>
+Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 
 ### Natural Language Processing (NPL) Projects <br>
 **[Fake News Classification using Google's BERT- GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)**
@@ -35,6 +42,3 @@ This is a VBA macro I wrote to address an issue with how enrollment reports disp
 **[My solutions to "R for Data Science" - GitHub](https://brownt47.github.io/R-For-Data-Science-Solutions)** <br>
 Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
 
-### PhotoShop Portfolio <br>
-**[PhotoShop Portfolio - GitPages](https://brownt47.github.io/Photoshop/)** <br>
-Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
