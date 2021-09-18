@@ -42,11 +42,11 @@
   > Project was to total the combined purchases of each customer with a reduce function. Then sort the data by those totals. I added a challenge of finding those with spendatures greater than some predetermined amount.
 
 #### VBA Projects <br>
-    * [Image Resizing and Hyperlink Insertion  in Word- GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
+[Image Resizing and Hyperlink Insertion  in Word- GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
   
-      > This is a macro that will resize a selected image and attach a hyperlink to the image. It will also add the hyperlink as text below the image.
+  > This is a macro that will resize a selected image and attach a hyperlink to the image. It will also add the hyperlink as text below the image.
 
-* [Course Enrollment Report Processing in Excel - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/CrossListedCourses.md) <br>
+[Course Enrollment Report Processing in Excel - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/CrossListedCourses.md) <br>
   
   > This is a VBA macro I wrote to address an issue with how enrollment reports displayed one course that had multiple cross-listings.  In order for one department to know how many students were enrolled in different courses, one would have to find all the cross-listed sections and then manually add them together.  This macro would automate that process across hundreds of cross-listed courses among all disciplines and campuses.
 
