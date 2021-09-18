@@ -21,10 +21,10 @@
   > Makes use of pandas, nympy, xlsxwriter and others.
 
 #### Research and Publications <br>
-* Research Papers of interest
+- Research Papers of interest
 
-  > [Research paper on how to read research papers (pdf)](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) <br>
-  > *Many thanks to S. Keshav from University of Waterloo for his "meta" research.*
+  * [Research paper on how to read research papers (pdf)](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) <br>
+    *Many thanks to S. Keshav from University of Waterloo for his "meta" research.*
 
 #### PhotoShop Portfolio <br>
 * [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
