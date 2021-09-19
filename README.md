@@ -23,13 +23,15 @@
 
 ## Other Projects <br>
 
-#### Natural Language Processing (NPL) Projects <br>
+#### Natural Language Processing (NLP) Projects <br>
 * [Fake News Classification using Google's BERT - GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)
-  * Training a BERT model to classify fake news articles.  
+  * Training a BERT model to classify fake news articles.
+  * Data from a Kaggle [Fake News competition](https://www.kaggle.com/c/fake-news/overview).
+  * Results place it in the top 3.  
 
 * [Parler ChatBot - GitHub](https://github.com/brownt47/NLP_Projects/blob/main/Parler_ChatBot.ipynb)
-  * Natural language generation using Markov chains with [Markovify](https://github.com/jsvine/markovify) 
-  * Built on the comments from the leaked Parler data set found [here](https://zenodo.org/record/4442460)
+  * Natural language generation using Markov chains with [Markovify](https://github.com/jsvine/markovify). 
+  * Built on the comments from the leaked Parler data set found [here](https://zenodo.org/record/4442460).
   * Favorite result: *"Chuck Todd "NBC NEWS" wants to know what Batman’s handwriting looks like."* 
 
 
