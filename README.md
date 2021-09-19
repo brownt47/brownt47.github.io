@@ -1,6 +1,6 @@
 # Timothy Brown's Portfolio
 
-## Intro<br>
+## About<br>
 * Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
 * Years of experience listening to client needs and providing guidance to solutions. Interested in moving from academia into a professional data science role.
 
