@@ -1,10 +1,10 @@
 # Timothy Brown's Portfolio
 
-## About<br>
+#### About<br>
 * [Resume](https://github.com/brownt47/Resume/blob/master/TBrown_Resume_September_2021.pdf)
-  > Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
-  > Years of experience listening to client needs and providing guidance to solutions. 
-  > Interested in moving from academia into a professional data science role.
+  * Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
+  * Years of experience listening to client needs and providing guidance to solutions. 
+  * Interested in moving from academia into a professional data science role.
 
 ## [Tableau Public Portfolio](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
 
