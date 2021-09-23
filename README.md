@@ -57,5 +57,5 @@
 * [How to Read a Paper - S. Keshav (pdf)](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) <br>
   * A research paper on how to read research papers.  Truly a standout in the field of meta.*
 
-* [Particle Swarm Optimization (PSO) Visually Explained]https://towardsdatascience.com/particle-swarm-optimization-visually-explained-46289eeb2e14 <br>
-  * TowardDataScience article - Learn PSO algorithm as a bedtime story with GIFs and python code
+* [Particle Swarm Optimization (PSO) Visually Explained - TowardDataScience.com](https://towardsdatascience.com/particle-swarm-optimization-visually-explained-46289eeb2e14) <br>
+  * Learn PSO algorithm as a bedtime story with GIFs and python code
