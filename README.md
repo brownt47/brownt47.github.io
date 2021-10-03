@@ -1,22 +1,22 @@
 # Timothy Brown's Portfolio
 
-#### About<br>
-* [Resume](https://github.com/brownt47/Resume/blob/master/TBrown_Resume_September_2021.pdf)
+### About<br>
+* [Resume](https://github.com/brownt47/Resume/blob/master/TBrown_Resume_October_2021.pdf)
   * Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
   * Years of experience listening to client needs and providing guidance to solutions. 
   * Interested in moving from academia into a professional data science role.
 
-## [Tableau Public Portfolio](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
+### [Tableau Public Portfolio](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
 
 
 * [Course Enrollment Analysis - Featured Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
 
-## [Python Portfolio](https://brownt47.github.io/Python_Projects/) <br>
+### [Python Portfolio](https://brownt47.github.io/Python_Projects/) <br>
   
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
 
-## [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
+### [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
 
   * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 
