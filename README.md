@@ -1,19 +1,17 @@
-# Timothy Brown's Portfolio
+# Timothy Brown's Portfolio <br>
 
 #### About<br>
 ### [Resume](https://github.com/brownt47/Resume/blob/master/TBrown_Resume_October_2021.pdf)
   * Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
   * Interested in moving from academia into a professional data science role.
 
-#### Tableau Public Portfolio [<link>](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
+#### Tableau Public Portfolio [(link)](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
 
 * [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
-
 <p align="center">
   <img src="https://github.com/brownt47/brownt47.github.io/blob/2ec890693586aafe34cd9c8bcae0a4b528cf6da6/images/Screenshot%202021-10-11%20102720.jpg" width="300"/>
 </p>
-
 
 * [NFL SuperBowl Dashboard](https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory) <br>
   * Dashboard showing various facts about past NFL Super Bowls up-to 2019.
