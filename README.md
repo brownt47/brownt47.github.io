@@ -41,7 +41,7 @@
 * [Predicting Google Stock Prices - GitHub](https://github.com/brownt47/Deep_Learning/blob/main/rnn.py)
   * Built an LSTM model to predict one month of stock prices for Google in January 2017
 <p align="center">
-      <img src="images/Figure 2021-10-11 101117.png" width="300" />
+      <img src="images/Google_Stock_Predictions.png" width="300" />
 </p>
 
 
