@@ -12,10 +12,15 @@
 * [Course Enrollment Analysis - Featured Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
 
+<p align="right">
+  <img src="https://github.com/brownt47/brownt47.github.io/blob/2ec890693586aafe34cd9c8bcae0a4b528cf6da6/images/Screenshot%202021-10-11%20102720.jpg" width="300"/>
+</p>
+
+
 * [BFL SuperBowl Dashboard](https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory) <br>
   * Dashboard showing various facts about past NFL Super Bowls up-to 2019.
   * The Patriots attending so many Super Bowls added some dodge and layer challenges.
-  * <p align="center">
+<p align="right">
   <img src="https://github.com/brownt47/brownt47.github.io/blob/5124929fbbe9c59b821d499afc6e26f6d6306737/images/Screenshot%202021-10-11%20102253.jpg" width="300"/>
 </p>
 
