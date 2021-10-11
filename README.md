@@ -1,7 +1,7 @@
 # Timothy Brown's Portfolio <br>
 
 <p align="center">
-  <img src="images/Screenshot 2021-10-11 102253.jpg">
+  <img src="images/Screenshot 2021-10-11 102253.jpg" width="300" alt="SuperBowl History Dashboard>
 </p>
 
 
