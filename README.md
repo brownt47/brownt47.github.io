@@ -5,9 +5,9 @@
   * Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
   * Interested in moving from academia into a professional data science role.
 
-#### Tableau Public Portfolio [link](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
+#### Tableau Public Portfolio [<link>](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
 
-* [Course Enrollment Analysis - Featured Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
+* [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
 
 <p align="center">
@@ -43,7 +43,7 @@
 * [Predicting Google Stock Prices - GitHub](https://github.com/brownt47/Deep_Learning/blob/d533e70410b4919bfb7c31b4d42d5d7250a5e0a4/rnn.py)
   * Built an LSTM model to predict one month of stock prices for Google in January 2017
   * <p align="center">
-      <img src="https://github.com/brownt47/Deep_Learning/blob/d533e70410b4919bfb7c31b4d42d5d7250a5e0a4/Figure%202021-10-11%20101117.png" />
+      <img src="https://github.com/brownt47/Deep_Learning/blob/d533e70410b4919bfb7c31b4d42d5d7250a5e0a4/Figure%202021-10-11%20101117.png" width="300" />
      </p>
 
 
