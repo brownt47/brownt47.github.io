@@ -1,7 +1,7 @@
 # Timothy Brown's Portfolio <br>
 
-#### About<br>
-### [Resume](https://github.com/brownt47/Resume/blob/master/TBrown_Resume_October_2021.pdf)
+#### [GitHub Link](https://github.com/brownt47) <br>
+### [Resume](https://github.com/brownt47/Resume/blob/master/TBrown_Resume_October_2021.pdf) <br>
   * Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
   * Interested in moving from academia into a professional data science role.
 
