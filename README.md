@@ -17,7 +17,7 @@
   * Dashboard showing various facts about past NFL Super Bowls up-to 2019.
   * The Patriots attending so many Super Bowls added some dodge and layer challenges.
 <p align="center">
-  <img src="https://github.com/brownt47/brownt47.github.io/blob/main/images/Screenshot%202021-10-11%20102253.jpg" width="300"/>
+  [[/images/Screenshot%202021-10-11%20102253.jpg width="300"]]
 </p>
 
 
