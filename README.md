@@ -12,7 +12,7 @@
 * [Course Enrollment Analysis - Featured Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
 
-<p align="right">
+<p align="center">
   <img src="https://github.com/brownt47/brownt47.github.io/blob/2ec890693586aafe34cd9c8bcae0a4b528cf6da6/images/Screenshot%202021-10-11%20102720.jpg" width="300"/>
 </p>
 
@@ -20,17 +20,12 @@
 * [BFL SuperBowl Dashboard](https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory) <br>
   * Dashboard showing various facts about past NFL Super Bowls up-to 2019.
   * The Patriots attending so many Super Bowls added some dodge and layer challenges.
-<p align="right">
+<p align="center">
   <img src="https://github.com/brownt47/brownt47.github.io/blob/5124929fbbe9c59b821d499afc6e26f6d6306737/images/Screenshot%202021-10-11%20102253.jpg" width="300"/>
 </p>
 
-### [Python Portfolio](https://brownt47.github.io/Python_Projects/) <br>
-  
-  * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
 
-### [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
 
-  * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 
 
 ## Other Projects <br>
@@ -58,6 +53,11 @@
 * [Processing Consumer Purchasing Data - GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)
   * Project was to total the combined purchases of each customer with a reduce function. Then sort the data by those totals. I added a challenge of finding those with spendatures greater than some predetermined amount.
 
+
+### [Python Portfolio](https://brownt47.github.io/Python_Projects/) <br>
+  
+  * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
+
 #### VBA Projects <br>
 * [Image Resizing and Hyperlink Insertion  in Word - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
   * This is a macro that will resize a selected image and attach a hyperlink to the image. It will also add the hyperlink as text below the image.
@@ -70,6 +70,11 @@
 * [Solutions for "R for Data Science" by Hadley Wickham](https://brownt47.github.io/R-For-Data-Science-Solutions)<br>
   * Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
   * [link to book](https://r4ds.had.co.nz/) <br>
+
+
+### [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
+
+  * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 
 
 #### Interesting Research and Publications 
