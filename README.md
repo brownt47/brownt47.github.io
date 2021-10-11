@@ -12,6 +12,13 @@
 * [Course Enrollment Analysis - Featured Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
 
+* [BFL SuperBowl Dashboard](https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory) <br>
+  * Dashboard showing various facts about past NFL Super Bowls up-to 2019.
+  * The Patriots attending so many Super Bowls added some dodge and layer challenges.
+  * <p align="center">
+  <img src="https://github.com/brownt47/brownt47.github.io/blob/5124929fbbe9c59b821d499afc6e26f6d6306737/images/Screenshot%202021-10-11%20102253.jpg" width="300"/>
+</p>
+
 ### [Python Portfolio](https://brownt47.github.io/Python_Projects/) <br>
   
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
@@ -33,6 +40,13 @@
   * Natural language generation using Markov chains with [Markovify](https://github.com/jsvine/markovify). 
   * Built on the comments from the leaked Parler data set found [here](https://zenodo.org/record/4442460).
   * Favorite result: *"Chuck Todd "NBC NEWS" wants to know what Batman’s handwriting looks like."* 
+
+#### Deep Learning Projects <br>
+* [Predicting Google Stock Prices - GitHub](https://github.com/brownt47/Deep_Learning/blob/d533e70410b4919bfb7c31b4d42d5d7250a5e0a4/rnn.py)
+  * Built an LSTM model to predict one month of stock prices for Google in January 2017
+  * <p align="center">
+      <img src="https://github.com/brownt47/Deep_Learning/blob/d533e70410b4919bfb7c31b4d42d5d7250a5e0a4/Figure%202021-10-11%20101117.png" />
+     </p>
 
 
 #### Scala and Spark Projects <br>
