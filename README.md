@@ -1,6 +1,6 @@
 # Timothy Brown's Portfolio <br>
 
-#### [GitHub Repository](https://github.com/brownt47) <br>
+#### [GitHub Link](https://github.com/brownt47) <br>
 ### [Resume](https://github.com/brownt47/Resume/blob/master/TBrown_Resume_October_2021.pdf) <br>
   * Team leader with strong analytical skills and proven client facing skills including public speaking, creating presentations, and planning long-term projects.
   * Interested in moving from academia into a professional data science role.
@@ -10,14 +10,14 @@
 * [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
 <p align="center">
-  <img src="images/Screenshot 2021-10-11 102253.jpg" width="300" alt="SuperBowl History Dashboard">
+  <img src="images/Course_Enrollment_Analysis.jpg" width="300">
 </p>
 
 * [NFL SuperBowl Dashboard](https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory) <br>
   * Dashboard showing various facts about past NFL Super Bowls up-to 2019.
   * The Patriots attending so many Super Bowls added some dodge and layer challenges.
 <p align="center">
-  <img src="images/Screenshot%202021-10-11%20102253.jpg" width="300">
+  <img src="images/SuperBowl_Dashboard.jpg" width="300">
 </p>
 
 
