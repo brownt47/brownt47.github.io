@@ -53,7 +53,7 @@
   
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
 <p align="center">
-<a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="300" /></a>
+<a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="400" /></a>
 </p>
 
 #### VBA Projects <br>
