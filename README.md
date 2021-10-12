@@ -9,7 +9,7 @@
 * [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
 <p align="center">
-  <a href="https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story2"><img src="images/Course_Enrollment_Analysis.jpg" width="300"></a>
+  <a href="https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1"><img src="images/Course_Enrollment_Analysis.jpg" width="300"></a>
 </p>
 
 * [NFL SuperBowl Dashboard](https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory) <br>
@@ -51,6 +51,8 @@
 ### Python Portfolio [(link)](https://brownt47.github.io/Python_Projects/) <br>
   
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
+<a href="images/destroyer of worlds.jpg"><img src="images/Destroyer_of_worlds_400.jpg" width="300" /></a>
+
 
 #### VBA Projects <br>
 * [Image Resizing and Hyperlink Insertion  in Word - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
