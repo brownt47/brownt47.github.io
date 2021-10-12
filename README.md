@@ -9,7 +9,7 @@
 * [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
 <p align="center">
-  <a href="https://public.tableau.com/profile/timothy.brown2096#!/"><img src="images/Course_Enrollment_Analysis.jpg" width="300"></a>
+  <a href="https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story2"><img src="images/Course_Enrollment_Analysis.jpg" width="300"></a>
 </p>
 
 * [NFL SuperBowl Dashboard](https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory) <br>
@@ -18,10 +18,6 @@
 <p align="center">
   <a href="https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory"><img src="images/SuperBowl_Dashboard.jpg" width="300"></a>
 </p>
-
-
-
-
 
 ## Other Projects <br>
 
@@ -44,7 +40,7 @@
 </p>
 
 
-### PhotoShop Portfolio[(link)](https://brownt47.github.io/Photoshop/) <br>
+### PhotoShop Portfolio [(link)](https://brownt47.github.io/Photoshop/) <br>
 
   * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 <p align="center">
@@ -52,7 +48,7 @@
 </p>
 
 
-### Python Portfolio[(link)](https://brownt47.github.io/Python_Projects/) <br>
+### Python Portfolio [(link)](https://brownt47.github.io/Python_Projects/) <br>
   
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
 
