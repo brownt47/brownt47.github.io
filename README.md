@@ -10,14 +10,14 @@
 * [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
 <p align="center">
-  <img src="images/Course_Enrollment_Analysis.jpg" width="300">
+  <a href=https://public.tableau.com/profile/timothy.brown2096#!/"><img src="images/Course_Enrollment_Analysis.jpg" width="300"></a>
 </p>
 
 * [NFL SuperBowl Dashboard](https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory) <br>
   * Dashboard showing various facts about past NFL Super Bowls up-to 2019.
   * The Patriots attending so many Super Bowls added some dodge and layer challenges.
 <p align="center">
-  <img src="images/SuperBowl_Dashboard.jpg" width="300">
+  <a href="https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory"><img src="images/SuperBowl_Dashboard.jpg" width="300"></a>
 </p>
 
 
@@ -41,7 +41,7 @@
 * [Predicting Google Stock Prices - GitHub](https://github.com/brownt47/Deep_Learning/blob/main/rnn.py)
   * Built an LSTM model to predict one month of stock prices for Google in January 2017
 <p align="center">
-      <img src="images/Google_Stock_Predictions.png" width="300" />
+      <a href="<https://github.com/brownt47/Deep_Learning/blob/main/rnn.py"><img src="images/Google_Stock_Predictions.png" width="300" /></a>
 </p>
 
 
@@ -49,7 +49,7 @@
 
   * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 <p align="center">
- <a href="https://stackoverflow.com/"><img src="images/Peeling_sky.jpg" width="300" /></a>
+ <a href="https://brownt47.github.io/Photoshop/"><img src="images/Peeling_sky.jpg" width="300" /></a>
 </p>
 
 
