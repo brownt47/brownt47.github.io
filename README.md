@@ -45,9 +45,12 @@
 </p>
 
 
-#### Scala and Spark Projects <br>
-* [Processing Consumer Purchasing Data - GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)
-  * Project was to total the combined purchases of each customer with a reduce function. Then sort the data by those totals. I added a challenge of finding those with spendatures greater than some predetermined amount.
+### [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
+
+  * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
+<p align="center">
+      <img src="images/Peeling_sky.jpg" width="300" />
+</p>
 
 
 ### [Python Portfolio](https://brownt47.github.io/Python_Projects/) <br>
@@ -68,10 +71,10 @@
   * [link to book](https://r4ds.had.co.nz/) <br>
 
 
-### [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
 
-  * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
-
+#### Scala and Spark Projects <br>
+* [Processing Consumer Purchasing Data - GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)
+  * Project was to total the combined purchases of each customer with a reduce function. Then sort the data by those totals. I added a challenge of finding those with spendatures greater than some predetermined amount.
 
 #### Interesting Research and Publications 
 * [How to Read a Paper - S. Keshav (pdf)](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) <br>
