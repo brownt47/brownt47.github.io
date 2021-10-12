@@ -41,7 +41,7 @@
 
 
 
-### PhotoShop Projects [(link)](https://brownt47.github.io/Photoshop/) <br>
+#### PhotoShop Projects [(link)](https://brownt47.github.io/Photoshop/) <br>
 
   * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 <p align="center">
@@ -49,14 +49,12 @@
 </p>
 
 
-### Python Projects [(link)](https://brownt47.github.io/Python_Projects/) <br>
+#### Python Projects [(link)](https://brownt47.github.io/Python_Projects/) <br>
   
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
 <p align="center">
-<a href="https://brownt47.github.io/Python_Projects/"><img src="images/Destroyer_of_worlds_400.jpg" width="300" /></a>
+<a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="300" /></a>
 </p>
-
-## Other Projects <br>
 
 #### VBA Projects <br>
 * [Image Resizing and Hyperlink Insertion  in Word - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
