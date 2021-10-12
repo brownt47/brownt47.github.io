@@ -49,7 +49,7 @@
 
   * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 <p align="center">
-      <img src="images/Peeling_sky.jpg" width="300" />
+ <a href="https://stackoverflow.com/"><img src="images/Peeling_sky.jpg" width="300" /></a>
 </p>
 
 
