@@ -41,11 +41,11 @@
 * [Predicting Google Stock Prices - GitHub](https://github.com/brownt47/Deep_Learning/blob/main/rnn.py)
   * Built an LSTM model to predict one month of stock prices for Google in January 2017
 <p align="center">
-      <a href="<https://github.com/brownt47/Deep_Learning/blob/main/rnn.py"><img src="images/Google_Stock_Predictions.png" width="300" /></a>
+      <a href="https://github.com/brownt47/Deep_Learning/blob/main/rnn.py"><img src="images/Google_Stock_Predictions.png" width="300" /></a>
 </p>
 
 
-### [PhotoShop Portfolio](https://brownt47.github.io/Photoshop/) <br>
+### PhotoShop Portfolio[(link)](https://brownt47.github.io/Photoshop/) <br>
 
   * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
 <p align="center">
@@ -53,7 +53,7 @@
 </p>
 
 
-### [Python Portfolio](https://brownt47.github.io/Python_Projects/) <br>
+### Python Portfolio[(link)](https://brownt47.github.io/Python_Projects/) <br>
   
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
 
@@ -70,13 +70,11 @@
   * Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
   * [link to book](https://r4ds.had.co.nz/) <br>
 
-
-
 #### Scala and Spark Projects <br>
 * [Processing Consumer Purchasing Data - GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)
   * Project was to total the combined purchases of each customer with a reduce function. Then sort the data by those totals. I added a challenge of finding those with spendatures greater than some predetermined amount.
-
-#### Interesting Research and Publications 
+                                     
+#### Interesting Books and Research Publications <br>
 * [How to Read a Paper - S. Keshav (pdf)](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) <br>
   * A research paper on how to read research papers.  Truly a standout in the field of meta.*
 
