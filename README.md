@@ -51,7 +51,7 @@
 ### Python Portfolio [(link)](https://brownt47.github.io/Python_Projects/) <br>
   
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
-<a href="images/destroyer of worlds.jpg"><img src="images/Destroyer_of_worlds_400.jpg" width="300" /></a>
+<a href="https://brownt47.github.io/Python_Projects/"><img src="images/Destroyer_of_worlds_400.jpg" width="300" /></a>
 
 
 #### VBA Projects <br>
