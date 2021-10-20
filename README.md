@@ -59,6 +59,10 @@
 #### Statistics Lectures
 * Few of the lectures I prepared when classes switched to online in the spring of 2021 due to the pandemic.
 
+<p align="center">
+<a href="https://github.com/brownt47/brownt47.github.io/blob/d68c31e10e466e0d2b89faf620cb7bbf6adb9dab/YouTube.md"></a>
+</p>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QrbdBnbgTEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
