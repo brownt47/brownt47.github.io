@@ -60,11 +60,8 @@
 * Few of the lectures I prepared when classes switched to online in the spring of 2021 due to the pandemic.
 
 <p align="center">
-[Lectures]("https://github.com/brownt47/brownt47.github.io/blob/d68c31e10e466e0d2b89faf620cb7bbf6adb9dab/YouTube.md")
+[Lectures]("YouTube.md")
 </p>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QrbdBnbgTEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 #### VBA Projects <br>
 * [Image Resizing and Hyperlink Insertion  in Word - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
