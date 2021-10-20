@@ -60,7 +60,7 @@
 * Few of the lectures I prepared when classes switched to online in the spring of 2021 due to the pandemic.
 
 <p align="center">
-[Lectures]("YouTube.md")
+[Lectures](https://github.com/brownt47/brownt47.github.io/blob/0125744edc3a9c2b2ea2672576f185c48d326582/YouTube.md")
 </p>
 
 #### VBA Projects <br>
