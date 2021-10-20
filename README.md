@@ -56,11 +56,11 @@
 <a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="400" /></a>
 </p>
 
-#### Statistics Lectures
+#### Stats Lectures [(link)](https://brownt47.github.io/YouTubeLectures/)
 * Few of the lectures I prepared when classes switched to online in the spring of 2021 due to the pandemic.
 
 <p align="center">
-[Lectures](https://github.com/brownt47/brownt47.github.io/blob/0125744edc3a9c2b2ea2672576f185c48d326582/YouTube.md")
+[Lectures](https://github.com/brownt47/brownt47.github.io/blob/0125744edc3a9c2b2ea2672576f185c48d326582/YouTube.md"  width="300")
 </p>
 
 #### VBA Projects <br>
