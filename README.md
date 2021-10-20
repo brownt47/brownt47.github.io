@@ -56,6 +56,14 @@
 <a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="400" /></a>
 </p>
 
+#### Statistics Lectures
+* Few of the lectures I prepared when classes switched to online in the spring of 2021 due to the pandemic.
+*  
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QrbdBnbgTEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ </p>
+
 #### VBA Projects <br>
 * [Image Resizing and Hyperlink Insertion  in Word - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
   * This is a macro that will resize a selected image and attach a hyperlink to the image. It will also add the hyperlink as text below the image.
