@@ -53,15 +53,17 @@ It is my nature to solve problems and improve existing solutions utilizing my st
 #### Python Projects [(link)](https://brownt47.github.io/Python_Projects/) <br>
   
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
-<p align="center">
-<a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="400" /></a>
-</p>
 
 #### R Projects
 
 * [Solutions for "R for Data Science" by Hadley Wickham](https://brownt47.github.io/R-For-Data-Science-Solutions)<br>
   * Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
   * [link to book](https://r4ds.had.co.nz/) <br>
+
+<p align="center">
+<a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="500" /></a>
+</p>
+
 
 #### VBA Projects <br>
 * [Image Resizing and Hyperlink Insertion  in Word - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
