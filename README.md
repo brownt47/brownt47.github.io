@@ -49,19 +49,10 @@
 </p>
 
 
-#### Python Projects [(link)](https://brownt47.github.io/Python_Projects/) <br>
-  
-  * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
-<p align="center">
-<a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="400" /></a>
-</p>
-
 #### Stats Lectures [(link)](https://brownt47.github.io/YouTubeLectures/)
 * Few of the lectures I prepared when classes switched to online in the spring of 2021 due to the pandemic.
 
-<p align="center">
-[Lectures](https://github.com/brownt47/brownt47.github.io/blob/0125744edc3a9c2b2ea2672576f185c48d326582/YouTube.md"  width="300")
-</p>
+<iframe width="300" src="https://www.youtube.com/embed/QrbdBnbgTEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### VBA Projects <br>
 * [Image Resizing and Hyperlink Insertion  in Word - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/ResizeImage.md)
@@ -69,6 +60,13 @@
 
 * [Course Enrollment Report Processing in Excel - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/CrossListedCourses.md) <br>
   * This is a VBA macro I wrote to address an issue with how enrollment reports displayed one course that had multiple cross-listings.  In order for one department to know how many students were enrolled in different courses, one would have to find all the cross-listed sections and then manually add them together.  This macro would automate that process across hundreds of cross-listed courses among all disciplines and campuses.
+
+#### Python Projects [(link)](https://brownt47.github.io/Python_Projects/) <br>
+  
+  * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
+<p align="center">
+<a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="400" /></a>
+</p>
 
 #### R Projects
 
