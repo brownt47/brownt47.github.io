@@ -6,6 +6,7 @@ My name is Timothy Brown, and I am a tech-savvy academic looking to tackle chall
 </p>
 
 It is my nature to solve problems and improve existing solutions utilizing my strong analytical and quantitative skills. Comfortable working with decision-makers, I also thrive in dynamic and collaborative environments and have solid verbal and written communication skills. I enjoy working with data to develop and build models that inform decision-making. I enjoy learning and have completed numerous online courses covering topics ranging from machine learning to graphic design.
+<br>
 
 #### Tableau Public Projects [(link)](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
   * [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
@@ -21,7 +22,6 @@ It is my nature to solve problems and improve existing solutions utilizing my st
   <a href="https://public.tableau.com/app/profile/timothy.brown2096/viz/SuperBowlProject/SuperBowlHistory"><img src="images/SuperBowl_Dashboard.jpg" width="300"></a>
 </p>
 <br>
-<br>
 
 #### Natural Language Processing (NLP) Projects <br>
 * [Fake News Classification using Google's BERT - GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)
@@ -34,7 +34,7 @@ It is my nature to solve problems and improve existing solutions utilizing my st
   * Built on the comments from the leaked Parler data set found [here](https://zenodo.org/record/4442460).
   * Favorite result: *"Chuck Todd "NBC NEWS" wants to know what Batman’s handwriting looks like."* 
 <br>
-<br>
+
 #### Deep Learning Projects <br>
 * [Predicting Google Stock Prices - GitHub](https://github.com/brownt47/Deep_Learning/blob/main/rnn.py)
   * Built an LSTM model to predict one month of stock prices for Google in January 2017
@@ -42,10 +42,6 @@ It is my nature to solve problems and improve existing solutions utilizing my st
       <a href="https://github.com/brownt47/Deep_Learning/blob/main/rnn.py"><img src="images/Google_Stock_Predictions.png" width="300" /></a>
 </p>
 <br>
-<br>
-
-
-
 
 #### PhotoShop Projects [(link)](https://brownt47.github.io/Photoshop/) <br>
   * Collection of projects involving product placements, photo retouching, old photo restorations, object removals and some creative fun.
@@ -54,27 +50,24 @@ It is my nature to solve problems and improve existing solutions utilizing my st
 </p>
 
 <br>
-<br>
+
 #### Stats Lectures [(link)](https://brownt47.github.io/YouTubeLectures/) <br>
   * Few of the lectures I prepared when classes switched to online in the spring of 2021 due to the pandemic.
 <p align="center">
 <iframe width="300" src="https://www.youtube.com/embed/QrbdBnbgTEo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <br>
-<br>
+
 
 #### Python Projects [(link)](https://brownt47.github.io/Python_Projects/) <br>
   * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
 
 <br>
-<br>
+
 #### R Projects <br>
   * [Solutions for "R for Data Science" by Hadley Wickham](https://brownt47.github.io/R-For-Data-Science-Solutions)<br>
     * Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
   * [link to book](https://r4ds.had.co.nz/) <br>
-
-
-<br>
 <br>
 
 #### VBA Projects <br>
@@ -84,17 +77,15 @@ It is my nature to solve problems and improve existing solutions utilizing my st
 * [Course Enrollment Report Processing in Excel - GitHub](https://github.com/brownt47/VBA-Projects/blob/main/CrossListedCourses.md) <br>
   * This is a VBA macro I wrote to address an issue with how enrollment reports displayed one course that had multiple cross-listings.  In order for one department to know how many students were enrolled in different courses, one would have to find all the cross-listed sections and then manually add them together.  This macro would automate that process across hundreds of cross-listed courses among all disciplines and campuses.
 <br>
-<br>
 
 #### Scala and Spark Projects <br>
 * [Processing Consumer Purchasing Data - GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)
   * Project was to total the combined purchases of each customer with a reduce function. Then sort the data by those totals. I added a challenge of finding those with spendatures greater than some predetermined amount.
 <br>
-<br>
+
 <p align="center">
 <img src="images/destroyer_of_worlds_400.jpg" width="400" />
 </p>
-<br>
 <br>
 #### Interesting Books and Research Publications <br>
 * [How to Read a Paper - S. Keshav (pdf)](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) <br>
