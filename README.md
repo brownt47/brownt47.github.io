@@ -5,13 +5,13 @@ My name is Timothy Brown, and I am a tech-savvy academic looking to tackle chall
 <img src="images/Timothy_Brown_photo.png" width="200">
 </p>
 
-It is my nature to solve problems and improve existing solutions utilizing my strong analytical and quantitative skills. Comfortable working with decision-makers, I also thrive in dynamic and collaborative environments and have solid verbal and written communication skills. I enjoy working with data to develop and build models that inform decision-making. I enjoy learning and have completed numerous online courses covering topics ranging from machine learning to graphic design.
+It is my nature to solve problems and improve existing solutions using my strong analytical and quantitative skills. Comfortable working with decision-makers, I also thrive in dynamic and collaborative environments and have solid verbal and written communication skills. I enjoy working with data to develop and build models that inform decision-making. I enjoy learning and have completed numerous online courses covering topics ranging from machine learning to graphic design.
 <br>
 
 #### Tableau Public Projects [(link)](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
   * [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
-<p align="center">
+<p align="right">
   <a href="https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1"><img src="images/Course_Enrollment_Analysis.jpg" width="300"></a>
 </p>
 
