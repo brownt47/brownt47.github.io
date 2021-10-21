@@ -19,14 +19,6 @@ It is my nature to solve problems and improve existing solutions utilizing my st
 </p>
 
 
-#### Deep Learning Projects <br>
-* [Predicting Google Stock Prices - GitHub](https://github.com/brownt47/Deep_Learning/blob/main/rnn.py)
-  * Built an LSTM model to predict one month of stock prices for Google in January 2017
-<p align="center">
-      <a href="https://github.com/brownt47/Deep_Learning/blob/main/rnn.py"><img src="images/Google_Stock_Predictions.png" width="300" /></a>
-</p>
-
-
 #### Natural Language Processing (NLP) Projects <br>
 * [Fake News Classification using Google's BERT - GitHub](https://github.com/brownt47/NLP_Projects/blob/main/BERT%20NLP%20Classification.md)
   * Training a BERT model to classify fake news articles.
@@ -37,6 +29,16 @@ It is my nature to solve problems and improve existing solutions utilizing my st
   * Natural language generation using Markov chains with [Markovify](https://github.com/jsvine/markovify). 
   * Built on the comments from the leaked Parler data set found [here](https://zenodo.org/record/4442460).
   * Favorite result: *"Chuck Todd "NBC NEWS" wants to know what Batman’s handwriting looks like."* 
+
+#### Deep Learning Projects <br>
+* [Predicting Google Stock Prices - GitHub](https://github.com/brownt47/Deep_Learning/blob/main/rnn.py)
+  * Built an LSTM model to predict one month of stock prices for Google in January 2017
+<p align="center">
+      <a href="https://github.com/brownt47/Deep_Learning/blob/main/rnn.py"><img src="images/Google_Stock_Predictions.png" width="300" /></a>
+</p>
+
+
+
 
 
 #### PhotoShop Projects [(link)](https://brownt47.github.io/Photoshop/) <br>
@@ -62,9 +64,7 @@ It is my nature to solve problems and improve existing solutions utilizing my st
     * Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
   * [link to book](https://r4ds.had.co.nz/) <br>
 
-<p align="center">
-<a href="https://brownt47.github.io/Python_Projects/"><img src="images/destroyer_of_worlds_400.jpg" width="500" /></a>
-</p>
+
 
 
 #### VBA Projects <br>
@@ -79,7 +79,9 @@ It is my nature to solve problems and improve existing solutions utilizing my st
 * [Processing Consumer Purchasing Data - GitHub](https://github.com/brownt47/Scala/blob/main/CustomerPurchasing.md)
   * Project was to total the combined purchases of each customer with a reduce function. Then sort the data by those totals. I added a challenge of finding those with spendatures greater than some predetermined amount.
 
-
+<p align="center">
+<img src="images/destroyer_of_worlds_400.jpg" width="400" /></a>
+</p>
 
 #### Interesting Books and Research Publications <br>
 * [How to Read a Paper - S. Keshav (pdf)](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) <br>
