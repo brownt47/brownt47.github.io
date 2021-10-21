@@ -1,7 +1,7 @@
 #### [GitHub Repository](https://github.com/brownt47) <br>
 ### [Resume](https://github.com/brownt47/Resume/blob/master/Timothy_Brown_Resume.pdf) <br>
 My name is Timothy Brown, and I am a tech-savvy academic looking to tackle challenging new problems. 
-<p align="center">
+<p align="right">
 <img src="images/Timothy_Brown_photo.png" width="200">
 </p>
 
@@ -11,7 +11,7 @@ It is my nature to solve problems and improve existing solutions using my strong
 #### Tableau Public Projects [(link)](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
   * [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
-<p align="right">
+<p align="center">
   <a href="https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1"><img src="images/Course_Enrollment_Analysis.jpg" width="300"></a>
 </p>
 
