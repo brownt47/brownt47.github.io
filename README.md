@@ -1,5 +1,5 @@
 #### [GitHub Repository](https://github.com/brownt47) <br>
-### [Resume](https://github.com/brownt47/Resume/blob/master/TBrown_Resume_October_2021.pdf) <br>
+### [Resume](https://github.com/brownt47/Resume/blob/master/Timothy_Brown_Resume.pdf) <br>
 My name is Timothy Brown, and I am a tech-savvy academic looking to tackle challenging new problems. 
 <p align="center">
 <img src="images/Timothy_Brown_photo.png" width="200">
