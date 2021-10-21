@@ -60,14 +60,14 @@ It is my nature to solve problems and improve existing solutions using my strong
 
 
 #### Python Projects [(link)](https://brownt47.github.io/Python_Projects/) <br>
-  * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, nympy, xlsxwriter and others.
+  * Collection of python projects used to analyze course enrollment data and generate excel reports. Makes use of pandas, numpy, xlsxwriter and others.
 
 <br>
 
 #### R Projects <br>
   * [Solutions for "R for Data Science" by Hadley Wickham](https://brownt47.github.io/R-For-Data-Science-Solutions)<br>
     * Some of the other solution guides for the book used R structures and methods not introduced in this text.  I wanted to write a solution manual that assumes no previous R experience and only uses methods described in the book.  Still a passion project in progress.
-  * [link to book](https://r4ds.had.co.nz/) <br>
+    * [link to book](https://r4ds.had.co.nz/)
 <br>
 
 #### VBA Projects <br>
@@ -94,6 +94,6 @@ It is my nature to solve problems and improve existing solutions using my strong
 * [Particle Swarm Optimization (PSO) Visually Explained - TowardDataScience.com](https://towardsdatascience.com/particle-swarm-optimization-visually-explained-46289eeb2e14) <br>
   * Learn PSO algorithm as a bedtime story with GIFs and python code
 
-* [Solutions for "R for Data Science" by Hadley Wickham](https://r4ds.had.co.nz/)
+* ["R for Data Science" by Hadley Wickham](https://r4ds.had.co.nz/)
   * Free eBook to help one get started in Data Science.  Baseball projects are great for sports junkies.
 
