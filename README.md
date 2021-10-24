@@ -4,7 +4,8 @@
 
 #### [GitHub Repository](https://github.com/brownt47) <br>
 ### [Resume](https://github.com/brownt47/Resume/blob/master/Timothy_Brown_Resume.pdf) <br>
-My name is Timothy Brown, and I am a tech-savvy academic looking to tackle challenging new problems. 
+My name is Timothy Brown.
+I am a tech-savvy academic looking to tackle challenging industry problems. 
 <p align="center">
 <img src="images/Github_v3_1280.jpg" width="500" >
 </p>
