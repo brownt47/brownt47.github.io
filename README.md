@@ -1,3 +1,7 @@
+<head>
+<meta property="og:image" content="images/Github_640_320.jpg" />
+</head>
+
 #### [GitHub Repository](https://github.com/brownt47) <br>
 ### [Resume](https://github.com/brownt47/Resume/blob/master/Timothy_Brown_Resume.pdf) <br>
 My name is Timothy Brown, and I am a tech-savvy academic looking to tackle challenging new problems. 
