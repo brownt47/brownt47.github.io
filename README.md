@@ -7,7 +7,7 @@
 My name is Timothy Brown.
 I am a tech-savvy academic looking to tackle challenging industry problems. 
 <p align="center">
-<img src="images/Github_v3_1280.jpg" width="500" >
+ <a href="https://github.com/brownt47"><img src="images/Github_v3_1280.jpg" width="500" ></a>
 </p>
 
 * It is my nature to solve problems. 
