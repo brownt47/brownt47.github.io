@@ -6,7 +6,7 @@
 ### [Resume](https://github.com/brownt47/Resume/blob/master/Timothy_Brown_Resume.pdf) <br>
 My name is Timothy Brown, and I am a tech-savvy academic looking to tackle challenging new problems. 
 <p align="center">
-<img src="images/images/Github_v3_1280.jpg" >
+<img src="images/Github_v3_1280.jpg" >
 </p>
 
 It is my nature to solve problems and improve existing solutions using my strong analytical and quantitative skills. Comfortable working with decision-makers, I also thrive in dynamic and collaborative environments and have solid verbal and written communication skills. I enjoy working with data to develop and build models that inform decision-making. I enjoy learning and have completed numerous online courses covering topics ranging from machine learning to graphic design.
