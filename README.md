@@ -1,5 +1,5 @@
 <head>
-<meta property="og:image" content="images/Github_640_320.jpg" />
+<meta property="og:image" content="images/Github_200.jpg" />
 </head>
 
 #### [GitHub Repository](https://github.com/brownt47) <br>
