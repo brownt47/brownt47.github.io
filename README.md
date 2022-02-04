@@ -44,8 +44,10 @@ I am a tech-savvy academic looking to tackle challenging industry problems.
 <br>
 
 #### Deep Learning Projects <br>
-* [Predicting Google Stock Prices - GitHub](https://github.com/brownt47/Deep_Learning/blob/main/rnn.py)
-  * Built an LSTM model to predict one month of stock prices for Google in January 2017
+* [Predicting Google Stock Prices using one feature - GitHub](https://github.com/brownt47/Deep_Learning/blob/main/rnn.py)
+  * Built an LSTM model to predict one month of stock open prices for Google in January 2017
+* [Predicting Google Stock Prices using five features- GitHub](https://github.com/brownt47/Deep_Learning/blob/main/Rnn_LSTM_Google_Stock_Prices_five_features.ipynb)
+  * Same LSTM model expanded to use open, high, low, close, and volume data for Google's stock.
 <p align="center">
       <a href="https://github.com/brownt47/Deep_Learning/blob/main/rnn.py"><img src="images/Google_Stock_Predictions.png" width="300" /></a>
 </p>
