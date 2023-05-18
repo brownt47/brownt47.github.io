@@ -16,6 +16,10 @@ I am a tech-savvy academic looking to tackle challenging industry problems.
 * I am an avid learner. I have completed numerous courses during the pandemic covering topics ranging from machine learning to graphic design.
 <br>
 
+#### Prompt Engineering with ChatGPT
+  * [Prompt Engineering Examples](https://github.com/brownt47/ChatGPT_Prompts) <br>
+  * Implemented ChatGPT and prompt engineering techniques to enhance the caliber of faculty review summaries and replies to student discussion threads. <br>
+
 #### Tableau Public Projects [(link)](https://public.tableau.com/profile/timothy.brown2096#!/) <br>
   * [Course Enrollment Dashboard](https://public.tableau.com/profile/timothy.brown2096#!/vizhome/AlpharettaProject/Story1) <br>
   * Dashboard to show enrollment levels in various subjects, courses and campuses.  Can identify "low enrollment" classes measure impact of cancelling courses based on a threshold parameter.
@@ -36,12 +40,12 @@ I am a tech-savvy academic looking to tackle challenging industry problems.
   * Training a BERT model to classify fake news articles.
   * Data from a Kaggle [Fake News competition](https://www.kaggle.com/c/fake-news/overview).
   * Results place it in the top 3.  
+<br>
 
 * [Parler ChatBot - GitHub](https://github.com/brownt47/NLP_Projects/blob/main/Parler_ChatBot.ipynb)
   * Natural language generation using Markov chains with [Markovify](https://github.com/jsvine/markovify). 
   * Built on the comments from the leaked Parler data set found [here](https://zenodo.org/record/4442460).
-  * Favorite result: *"Chuck Todd "NBC NEWS" wants to know what Batman’s handwriting looks like."* 
-<br>
+  <br>
 
 #### Deep Learning Projects <br>
 * [Predicting Google Stock Prices using one feature - GitHub](https://github.com/brownt47/Deep_Learning/blob/main/rnn.py)
