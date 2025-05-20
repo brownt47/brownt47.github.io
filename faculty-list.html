@@ -66,7 +66,7 @@
     <!-- Lead Section -->
     <div id="lead">
       <div id="lead-content">
-        <h1>Faculty Course Mapping & D2L Utility</h1>
+        <h1>Instructor Assignment & D2L Roster Tool</h1>
         <h2>Automating LMS setup and improving cross-campus communication</h2>
       </div>
       <div id="lead-overlay"></div>
@@ -83,9 +83,12 @@
           This Python-based utility streamlines post-scheduling administrative
           tasks by generating reports that map faculty assignments across
           campuses and courses, and automates the creation of upload-ready files
-          for populating Desire2Learn (D2L) course templates. Designed to reduce
-          redundancy and enable precise communication, this tool addresses
-          critical inefficiencies in cross-campus coordination and LMS setup.
+          for populating Desire2Learn (D2L) course templates.
+        </p>
+        <p>
+          Designed to reduce redundancy and enable precise communication, this
+          tool addresses critical inefficiencies in cross-campus coordination
+          and Learning Management System (LMS) setup.
         </p>
       </div>
     </div>
@@ -125,24 +128,26 @@
         <h2 class="heading">Core Features</h2>
         <ul>
           <li>
-            🔄 <strong>Schedule Ingestion:</strong> Parses finalized Excel
-            schedule exports
+            <strong>Schedule Ingestion:</strong> Converts CSV schedule report
+            into finalized Excel report of faculty teaching assignments with
+            contact information
           </li>
           <li>
-            🔍 <strong>Campus/Course Indexing:</strong> Generates multi-level
+            <strong>Campus/Course Indexing:</strong> Generates multi-level
             groupings by instructor, campus, and course
           </li>
           <li>
-            📄 <strong>D2L Uploader Integration:</strong> Outputs formatted text
-            files for batch upload to D2L LMS shells
+            <strong>D2L Uploader Integration:</strong> Outputs formatted text
+            files for batch upload to D2L LMS course templates
           </li>
           <li>
-            🛠️ <strong>Multi-Campus Compatibility:</strong> Handles instructors
+            <strong>Multi-Campus Compatibility:</strong> Handles instructors
             teaching at multiple sites and in online sections
           </li>
           <li>
-            ✉️ <strong>Comms Utility:</strong> Enables selective contact lists
-            for distribution of syllabi updates, curricular memos, etc.
+            <strong>Comms Utility:</strong> Enables selective contact lists for
+            distribution of syllabi updates, curricular memos, assessment
+            procedures, etc.
           </li>
         </ul>
       </div>
@@ -153,8 +158,9 @@
       <div class="container">
         <h2 class="heading">Tools Used</h2>
         <ul>
-          <li>Python (pandas, openpyxl)</li>
-          <li>Excel (input/export formatting)</li>
+          <li>Python (pandas, numpy, xlsxwriter)</li>
+          <li>Google Colab (cloud notebook interface)</li>
+          <li>Excel (input/output formatting)</li>
         </ul>
       </div>
     </div>
@@ -163,18 +169,60 @@
     <div id="impact">
       <div class="container">
         <h2 class="heading">Impact</h2>
-        <p>
-          Eliminated repetitive manual entry of faculty into D2L templates
-          across 6 campuses.<br />
-          Accelerated faculty coordination workflows for curriculum committee
-          communications.<br />
-          Ensured accurate and consistent instructor tracking across course
-          offerings.<br />
-          Created a reusable system that now supports every term’s onboarding
-          and communication needs with minimal updates.
-        </p>
+        <ul>
+          <li>
+            Eliminated repetitive manual entry of faculty into D2L templates
+            across 6 campuses.
+          </li>
+          <li>
+            Accelerated faculty coordination workflows for curriculum committee
+            communications.
+          </li>
+          <li>
+            Ensured accurate and consistent instructor tracking across course
+            offerings.
+          </li>
+          <li>
+            Created a reusable system that now supports every term’s onboarding
+            and communication needs with minimal updates.
+          </li>
+        </ul>
       </div>
     </div>
+
+    <!-- Showcase Section -->
+    <section id="showcase" class="background-alt">
+      <div class="container">
+        <h2 class="heading">Try It Yourself</h2>
+        <p>
+          This tool is built for department chairs, schedulers, and admins who
+          want fast, reliable faculty assignment reports and D2L rosters.
+        </p>
+        <p>You can launch it live or explore the full project on GitHub.</p>
+
+        <p>
+          <a
+            href="https://colab.research.google.com/github/brownt47/faculty_lists/blob/main/D2L_Roster_and_Excel_Report_Tool.ipynb"
+            target="_blank"
+          >
+            <img
+              src="https://colab.research.google.com/assets/colab-badge.svg"
+              alt="Open in Colab"
+              style="height: 40px"
+            />
+            <br />
+            Launch in Google Colab
+          </a>
+        </p>
+
+        <p>
+          <a href="https://github.com/brownt47/faculty_lists" target="_blank">
+            📁 View the code, sample outputs, and screenshots on GitHub
+          </a>
+        </p>
+      </div>
+    </section>
+
     <footer>
       <div class="container">
         <p>&copy; 2025 Timothy A. Brown. All rights reserved.</p>
